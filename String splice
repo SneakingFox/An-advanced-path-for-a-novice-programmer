@@ -1,0 +1,3 @@
+str1 = input("please enter someone's name:")
+str2 = input("please enter a name of a country:")
+print("The world is so big，{}want to{} to see.".format(str1,str2))
