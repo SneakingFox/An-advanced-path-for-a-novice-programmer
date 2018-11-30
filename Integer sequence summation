@@ -1,0 +1,5 @@
+n = input("please enter a postive integer N:")
+sum = 0
+for i in range(int(n))
+  sum += i+1
+ print("The sum result of 1 to N",sum)
